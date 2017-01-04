@@ -1,18 +1,15 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("http://cdn.pcwallart.com/images/solid-color-orange-wallpaper-3.jpg");
       background-size: cover;
       color: white;
     }
     .nav {
       color: white;
     }
-    h1 {
-      font-size: 70px;
-    }
     img {
       margin: 40px 0px 0px 0px;
-      border: 7px solid white;
+      border: 7px #1097A7;
       border-radius: 20px;
     }
     ul {
@@ -30,8 +27,8 @@
     }
     @media (max-width: 500px) {
       h1 {
-        font-size: 36px;
-        padding: 5px;
+        font-size: 30px;
+        font-family: Georgia;
       }
       li {
         padding: 5px;
